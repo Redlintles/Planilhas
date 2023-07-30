@@ -1,2 +1,2 @@
 # Planilhas
-Um Repositório para guardar planilhas exce
+Um Repositório para guardar planilhas do Microsoft Excel
